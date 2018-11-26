@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1378041422 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	"Skup.h"
+	"Familija.h"
+	"Podfamilija.h"
+
+1377857172 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\skup.h
+	<string>
+	<iostream>
+	<vector>
+
+1377855996 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\skup.cpp
+	"Skup.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1377856931 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\familija.cpp
+	"Familija.h"
+	<fstream>
+
+1377856935 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\familija.h
+	"Skup.h"
+	<vector>
+
+1378041394 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\podfamilija.h
+	"Skup.h"
+	"Familija.h"
+	<vector>
+
+1378041462 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija\podfamilija.cpp
+	"Podfamilija.h"
+	<algorithm>
+	<iostream>
+	<vector>
+	<iterator>
+
+1378407893 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\familija.cpp
+	"Familija.h"
+	<fstream>
+
+1378407720 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\familija.h
+	"Skup.h"
+	<vector>
+
+1378407592 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\skup.h
+	<string>
+	<iostream>
+	<vector>
+
+1378409742 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\podfamilija.cpp
+	"Podfamilija.h"
+	<algorithm>
+	<iostream>
+	<vector>
+	<iterator>
+
+1378408889 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\podfamilija.h
+	"Skup.h"
+	"Familija.h"
+	<vector>
+
+1378407577 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\skup.cpp
+	"Skup.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1378408369 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_4\maxpodfamilija_2\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+	"Skup.h"
+	"Familija.h"
+	"Podfamilija.h"
+
